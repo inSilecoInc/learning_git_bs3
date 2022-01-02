@@ -1,0 +1,18 @@
+# INTRODUCTION
+
+The goal of the exercise is to work collaboratively using GitHub to create a CSAS document with `csasdown`.
+
+## TASKS
+
+The tasks to complete the work are as follows:
+
+1. Clone [GitHub repository](https://github.com/inSilecoInc/learning_git_bs3) for the exercise
+2. Create new branch on repository
+3. Create child `.Rmd` document, *i.e.* new `.Rmd` document without `YAML` header
+4. Include a single section (level 1) with the title of your choice using `# Title` and some text and/or code chunk
+5. Commit and push changes to your branch
+6. Create and assign pull request to another participant
+7. Review and merge pull request assigned to you
+8. Add child documents to `_bookdown.yml` document
+9. Render Research Document
+10. Commit and push changes to main branch
